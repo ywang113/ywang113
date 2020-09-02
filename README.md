@@ -13,8 +13,7 @@
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -34,7 +33,5 @@
 
 ---
 
-[website]: https://github.com/boguss1225/
-[linkedin]: https://www.linkedin.com/in/heemoon-yoon-8627801a9/
-[Facebook]: https://www.facebook.com/hm.yoon.54
-[instagram]: https://instagram.com/boguss0462
+[website]: https://github.com/ywang113/
+[linkedin]: https://www.linkedin.com/in/yifei-wang-276a79128/
