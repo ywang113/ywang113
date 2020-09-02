@@ -33,7 +33,6 @@
 <br />
 
 ---
-<img align="left" alt="boguss1225's Github Stats" src="https://github-readme-stats.vercel.app/api?username=boguss1225&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/boguss1225/
 [linkedin]: https://www.linkedin.com/in/heemoon-yoon-8627801a9/
