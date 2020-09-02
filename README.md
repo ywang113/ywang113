@@ -1,14 +1,13 @@
-### Hi there, I'm HEEMOON - A.K.A. Troubleshooter [Boguss][website]! 👋
+### Hi there, I'm Gary Wang
 
-## I'm an all-rounder Developer from front-end to back-end.
+## I'm a junior Front-End developer. 
 - 🔭 I’m currently working on AI projects(TensorFlow), researches about dementia.
-- 🌱 I’m currently learning Everything. 
+- 🌱 I’m currently learning React, node.js. 
 - 👯 I’m looking to collaborate with other neuroscientists and developers.
-- 🤔 I’m looking for help with industrial development process experience.
-- 💬 Ask me about AI vision stuff & general programming.
+- 🤔 I’m looking for a position where I can continue to practice and improve my current skills as well as develop other relative knowledge skills.
 - 📫 How to reach me: email is preferred
 - ⚡ Fun fact: I believe programming is only exclusively for geniuses with talent and the genius I believe is nothing but a great capacity for patience.
-- 🥅 2020 Goals: Finishing some of my current projects & Learning new languages & Regular exercise!
+- 🥅 2020 Goals: Finishing some of my current projects & my profile page with React & Learning new languages.
 
 ### Connect with me:
 
@@ -47,5 +46,3 @@
 [linkedin]: https://www.linkedin.com/in/heemoon-yoon-8627801a9/
 [Facebook]: https://www.facebook.com/hm.yoon.54
 [instagram]: https://instagram.com/boguss0462
-[youtube]: https://youtube.com/NotReadyYet
-[twitter]: https://twitter.com/NotReadyYet
