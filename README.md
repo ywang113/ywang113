@@ -1,7 +1,6 @@
 ### Hi there, I'm Gary Wang
 
 ## I'm a junior Front-End developer. 
-- 🔭 I’m currently working on AI projects(TensorFlow), researches about dementia.
 - 🌱 I’m currently learning React, node.js. 
 - 👯 I’m looking to collaborate with other neuroscientists and developers.
 - 🤔 I’m looking for a position where I can continue to practice and improve my current skills as well as develop other relative knowledge skills.
