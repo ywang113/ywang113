@@ -1,12 +1,12 @@
 ### Hi there, I'm Gary Wang
 
-## I'm a junior Front-End developer. 
-- 🌱 I’m currently learning React, node.js. 
+## I'm a junior Full-Stack developer. 
+- 🌱 I’m currently working on Online Learning Platform and SpeechToText Application for reseracher at the University of Tasmania
 - 👯 I’m looking to collaborate with other neuroscientists and developers.
 - 🤔 I’m looking for a position where I can continue to practice and improve my current skills as well as develop other relative knowledge skills.
 - 📫 How to reach me: email is preferred
 - ⚡ Fun fact: I believe programming is only exclusively for geniuses with talent and the genius I believe is nothing but a great capacity for patience.
-- 🥅 2020 Goals: Finishing some of my current projects & my profile page with React & Learning new languages.
+- 🥅 2021 Goals: Learn new things! Finish current project! (2/5)! Kick off my career at Tasmania
 
 ### Connect with me:
 
